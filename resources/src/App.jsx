@@ -4,7 +4,7 @@ const App = () => {
     return (
         <>
             <main>
-                <section></section>
+                <section className="text-2xl text-slate-600">Hello World</section>
             </main>
         </>
     );
